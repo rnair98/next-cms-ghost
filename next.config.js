@@ -29,4 +29,5 @@ module.exports = withBundleAnalyzer({
     ],
   },
   reactStrictMode: true,
+  basePath: '/docs',
 })
